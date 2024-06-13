@@ -1,0 +1,17 @@
+This is only a early version here are the changes for each version
+
+--how to use--
+run main.py
+then run it using the commands listed below
+
+v1 
+print()- can print vars and text 
++ - * /- can use math
+var1 = 1- make vars
+CMD
+use exit, quit, main.exit, or break to exit
+use cf run "filename.cf" to run the file with that name
+
+Made by Crimson2985
+Youtube https://youtube.com/@codedwire
+Discord server https://discord.gg/H9vm3GE8pp
